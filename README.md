@@ -4,7 +4,7 @@
 <p> Sejam bem-vindos ao projeto de LAB <strong>Explorando Padrões de Projetos na Prática com Java</strong> oferecido gratuitamente pela plataforma de cursos online <a href="https://dio.me/"><strong> Digital Innovation One</strong></a>.<br>
 
 <h2>🎯 Objetivo do Projeto</h2>
-<p>Criar uma solução que explore o conceito de Padrões de Projeto na pŕatica. Para isso, será desenvolvido um projeto a partir do conteúdo estudado. Dito isso, o projeto será uma aplicação baseada em Spring Boot, configurada via Spring Initializr.</p>
+<p>Criar uma solução que explore o conceito de Padrões de Projeto na pŕatica. Para isso, será desenvolvido um projeto a partir do conteúdo estudado. Uma aplicação baseada em Spring Boot, configurada via Spring Initializr.</p>
 
 <h2>🛠 Tecnologias Utilizadas</h2>
 <ul>
@@ -49,7 +49,6 @@ Se te ajudei de alguma forma, ficarei feliz em saber. E caso você conheça algu
 
 Se possível:
 ⭐️  Star o projeto
-🐛 Encontrar e relatar issues
 ------------
 By por [fsousa-hub](https://github.com/fsousa-hub).
 
